@@ -2,7 +2,7 @@
 #include <stdio.h>
 void main() 
 {
-    // Write C code here
+
     int a=7,b=8;
     int c=a;
         a=b;
